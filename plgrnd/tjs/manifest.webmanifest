@@ -1,5 +1,5 @@
 {
   "name": "Three.js Playground",
   "start_url": "/plgrnd/tjs/webxr.html",
-  "scope": "https://www.bodymindgames.com/",
+  "scope": "https://www.bodymindgames.com/"
 }
