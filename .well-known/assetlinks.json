@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bodymindgames.tjsp",
+      "sha256_cert_fingerprints": [
+        "D7:B8:99:97:C8:60:98:24:D3:2A:7C:63:CF:4E:5E:7E:56:DE:3A:AB:FC:50:29:D6:64:A6:04:85:FB:6E:2A:05"
+      ]
+    }
+  }
+]
