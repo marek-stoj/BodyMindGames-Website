@@ -57,7 +57,8 @@
       localFrame.add(spark);
       localFrame.add(camera);
 
-      const splatURL = await getAssetFileURL("valley.spz");
+      // const splatURL = await getAssetFileURL("valley.spz");
+      const splatURL = await getAssetFileURL("butterfly.spz");
       const background = new SplatMesh({ url: splatURL });
       background.quaternion.set(1, 0, 0, 0);
       background.scale.setScalar(0.5);
